@@ -5,6 +5,6 @@
 Para rodar esse projrto na sua máquina, por favir digite:
 
 ...
-npm  install react
+node app.js
 ...
 
